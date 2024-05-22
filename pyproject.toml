@@ -1,0 +1,14 @@
+[project]
+name = "tiled_ksampler"
+description = "Nodes:Tiled KSampler, Asymmetric Tiled KSampler, Circular VAEDecode."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/FlyingFireCo/tiled_ksampler"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "tiled_ksampler"
+Icon = ""
